@@ -85,7 +85,7 @@ export default function FilterProfile() {
                     <span>Profile Created By</span>
                     <span>Any <span className='accordion-edit'><EditOutlinedIcon/></span></span>
                   </div>
-                  <div className='accordion-viewmore'>View more <KeyboardArrowDownOutlinedIcon/></div>
+                  <div className='accordion-viewmore'>View more asdfghjkl; <KeyboardArrowDownOutlinedIcon/></div>
                 </AccordionDetails>
               </Accordion>
 
@@ -131,7 +131,7 @@ export default function FilterProfile() {
                     <span>Dosha(m)</span>
                     <span>Doesn't Matter <span className='accordion-edit'><EditOutlinedIcon/></span></span>
                   </div>
-                  <div className='accordion-viewmore'>View more <KeyboardArrowDownOutlinedIcon/></div>
+                  <div className='accordion-viewmore'>View more asdfghjkl<KeyboardArrowDownOutlinedIcon/></div>
                 </AccordionDetails>
               </Accordion>
 
